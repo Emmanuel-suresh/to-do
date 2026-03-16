@@ -1,5 +1,12 @@
 ## Hi there 👋
+## 👨‍💻 About Me
 
+Hi, I'm Emmanuel Suresh 👋  
+
+🎓 Computer Engineering Student  
+💻 Learning Web Development and Programming  
+🚀 Currently working on small coding projects  
+📚 Improving skills in HTML, CSS, JavaScript, and C++  
 <!--
 **Emmanuel-suresh/Emmanuel-suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
